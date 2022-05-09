@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "d678c9a1cfd6cb2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d923296719bf774",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "100 Modelos y Simulaciones Index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "38ccf37a2936e86b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Generacion de variables aleatorias continuas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f3ea10850c6a49a",
+    "type": "split",
+    "children": [
+      {
+        "id": "226d9966e9b816dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8335df18447e3ad8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22e707fe961c976a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299,
+    "collapsed": true
+  },
+  "right": {
+    "id": "94e8d6afe7817bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "95de8f291e3a417a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "130dbdb4581807e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Generacion de variables aleatorias continuas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db838b66575aec8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Generacion de variables aleatorias continuas.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd12ca62359d35bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08444ea3d76d4a76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Generacion de variables aleatorias continuas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "38ccf37a2936e86b",
+  "lastOpenFiles": [
+    "Generacion de variables aleatorias continuas.md",
+    "Generacion de variables aleatorias discretas.md",
+    "100 Modelos y Simulaciones Index.md",
+    "El Metodo de Monte Carlo.md",
+    "Codificacion de infinituplas de numeros.md",
+    "Composicion - Lemma 1.md",
+    "Composicion.md",
+    "El paradigma de Godel (Funciones Sigma-recursivas).md",
+    "100 Lenguajes Formales y Computabilidad Index.md",
+    "Operaciones logicas entre predicados.md"
+  ]
+}

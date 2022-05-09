@@ -1,0 +1,71 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Advanced English Grammar In Use Activities": "",
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Basic-55fc2": "",
+      "Cloze": "",
+      "English Grammar In Use Activities": "",
+      "English Grammar In Use Exercises": "",
+      "Essential Idioms in English": "",
+      "iKnow! Sentences": "",
+      "iKnow! Sentences-1d872": "",
+      "iKnow! Vocabulary": "",
+      "iKnow! Vocabulary-9b8b2": "",
+      "Morse": "",
+      "Sample": "",
+      "Ultimate Geography [Extended]": "",
+      "Ultimate Geography-7c473": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Advanced English Grammar In Use Activities": "Id",
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Basic-55fc2": "Front",
+      "Cloze": "Text",
+      "English Grammar In Use Activities": "Id",
+      "English Grammar In Use Exercises": "Id",
+      "Essential Idioms in English": "Id",
+      "iKnow! Sentences": "Expression",
+      "iKnow! Sentences-1d872": "Expression",
+      "iKnow! Vocabulary": "Expression",
+      "iKnow! Vocabulary-9b8b2": "Expression",
+      "Morse": "Front",
+      "Sample": "Audio",
+      "Ultimate Geography [Extended]": "Country",
+      "Ultimate Geography-7c473": "Country"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {}
+}
